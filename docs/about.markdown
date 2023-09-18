@@ -1,18 +1,7 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hi! My name is Jaruwatana Sōdai Lotharukpong (จารุวัฒนา 壮大 โลทารักษ์พงศ์). Like my ethnic background, my interests are a mishmash of various fields including: `developmental biology`, `systems biology`, and `bioinformatics`. I love how ideas from different traditions can together create wonderful and new concepts. This site is just about that!
