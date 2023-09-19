@@ -9,4 +9,3 @@ Hi! My name is Jaruwatana Sōdai Lotharukpong (จารุวัฒนา 壮�
 
 ![PXL_20230821_151113739](https://github.com/LotharukpongJS/LotharukpongJS.github.io/assets/80110649/50ff4567-1049-417f-a2a7-f40d63c55e8b)
 ![PXL_20230823_163653386 MP](https://github.com/LotharukpongJS/LotharukpongJS.github.io/assets/80110649/071ffc46-f68e-4301-bfec-f909e8bee8ca)
-![PXL_20230822_120843250](https://github.com/LotharukpongJS/LotharukpongJS.github.io/assets/80110649/9b9e4055-3714-4fe1-aa0a-7b5782fc49ca)
