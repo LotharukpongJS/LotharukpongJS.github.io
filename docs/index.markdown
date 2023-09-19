@@ -9,7 +9,7 @@ Hi there! My name is Sodai and I am a PhD student at the [`Dept. Algal Developme
 ## Bioinformatics
 Contributions to open-source bioinformatic software applications.
 
-<img src="../images/GenEra_logo_dark.png" width="150"> <img src="../images/myTAI_logo.png" width="150"> <img src="../images/orthologr_logo.png" width="150"> <img src="../images/phylomapr_logo.png" width="150">
+[<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/GenEra_logo_dark.png?raw=true" width="150">](https://github.com/josuebarrera/GenEra) [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/myTAI_logo.png?raw=true" width="150">](https://drostlab.github.io/myTAI) <img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/orthologr_logo.png?raw=true" width="150"> <img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/phylomapr_logo.png?raw=true" width="150">
 
 [`GenEra`](https://github.com/josuebarrera/GenEra) estimates gene-family founder events (i.e., the age of the last common ancestor of protein-coding gene families) through the reimplementation of genomic phylostratigraphy.
 
