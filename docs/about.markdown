@@ -4,8 +4,16 @@ title: About me
 permalink: /about/
 ---
 
-Hi! My name is Jaruwatana Sōdai Lotharukpong (จารุวัฒนา 壮大 โลทารักษ์พงศ์). Like my ethnic background, my interests are a mishmash of various fields including: `developmental biology`, `systems biology`, and `bioinformatics`. I love how ideas from different traditions can together create wonderful and new concepts. This site is just about that!
+My name is Jaruwatana Sōdai Lotharukpong (จารุวัฒนา 壮大 โลทารักษ์พงศ์), a PhD student at the Max Planck Institue for Biology (Tübingen, Germany). Like my cultural background, my interests are a mishmash of various fields including: `developmental biology`, `systems biology`, and `bioinformatics`. I love how ideas from different traditions can together create wonderful and new concepts. This site is just about that!
 
-[![StAbbs](/images/PXL_20230821_151113739.jpg)](/images/PXL_20230821_151113739.jpg)
+[`ORCID`](https://orcid.org/0000-0002-3475-0980) :: [`Scholar`](https://scholar.google.com/citations?user=2HiLuNEAAAAJ&hl) :: [`X/Twitter`](https://twitter.com/SodaiL)
 
-[![Ectocarpus](/images/PXL_20230823_163653386.MP.jpg)](/images/PXL_20230823_163653386.MP.jpg)
+Current affiliations:
+
+[`Dept. Algal Development and Evolution`](https://www.bio.mpg.de/48867/algal-development-and-evolution-s) :: [`Coelho Lab`](https://www.bio.mpg.de/162864/coelho-lab) :: [`Drost Lab`](https://drostlab.com/) :: [`MPI for Biology`](https://www.bio.mpg.de/).
+
+Former affiliations:
+
+[`Dept. Zoology, Cambridge`](https://www.zoo.cam.ac.uk/) :: [`Peterhouse`](https://www.pet.cam.ac.uk/) :: [`Dept. Life Sciences, Imperial College London`](https://www.imperial.ac.uk/life-sciences/)
+
+<img src="/images/PXL_20230821_151113739.jpg" height="300" /> <img src="/images/PXL_20230823_163653386.MP.jpg" height="300" />
