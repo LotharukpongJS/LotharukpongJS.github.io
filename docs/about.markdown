@@ -8,12 +8,9 @@ My name is Jaruwatana Sōdai Lotharukpong (จารุวัฒนา 壮大 �
 
 [`ORCID`](https://orcid.org/0000-0002-3475-0980) :: [`Scholar`](https://scholar.google.com/citations?user=2HiLuNEAAAAJ&hl) :: [`X/Twitter`](https://twitter.com/SodaiL)
 
-Current affiliations:
+Current affiliations: [`Dept. Algal Development and Evolution`](https://www.bio.mpg.de/48867/algal-development-and-evolution-s) :: [`Coelho Lab`](https://www.bio.mpg.de/162864/coelho-lab) :: [`Drost Lab`](https://drostlab.com/) :: [`MPI for Biology`](https://www.bio.mpg.de/).
 
-[`Dept. Algal Development and Evolution`](https://www.bio.mpg.de/48867/algal-development-and-evolution-s) :: [`Coelho Lab`](https://www.bio.mpg.de/162864/coelho-lab) :: [`Drost Lab`](https://drostlab.com/) :: [`MPI for Biology`](https://www.bio.mpg.de/).
+Former affiliations: [`Dept. Zoology, Cambridge`](https://www.zoo.cam.ac.uk/) :: [`Peterhouse`](https://www.pet.cam.ac.uk/) :: [`Dept. Life Sciences, Imperial College London`](https://www.imperial.ac.uk/life-sciences/)
 
-Former affiliations:
-
-[`Dept. Zoology, Cambridge`](https://www.zoo.cam.ac.uk/) :: [`Peterhouse`](https://www.pet.cam.ac.uk/) :: [`Dept. Life Sciences, Imperial College London`](https://www.imperial.ac.uk/life-sciences/)
-
-<img src="/images/PXL_20230821_151113739.jpg" height="300" > <img src="/images/PXL_20230823_163653386.MP.jpg" height="300" >
+<img src="/images/PXL_20230821_151113739.jpg" height="300" > 
+<img src="/images/PXL_20230823_163653386.MP.jpg" height="300" >
