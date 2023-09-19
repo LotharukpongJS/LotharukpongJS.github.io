@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "What is the evolutionary transcriptome?"
-date:   2023-09-18 11:18:49 +0200
+date:   2023-09-20 00:20:35 +0200
 categories: jekyll update
 ---
-The transcriptome is the totality of mRNA expressed from the genome of an organism. The transcriptome, as do other phenotypes (if considered as the first phenotype of the genome) or biological processes, changes over successive generations (`evolves`). The `evolutionary transcriptome` emphasises and contextualises the transcriptome as an evolving property. Through the comparative method, one can dissect how it evolves.
+The transcriptome is the totality of mRNA expressed from the genome of an organism. The transcriptome, as do other phenotypes (if considered as the first phenotype of the genome) or biological processes, changes over successive generations (`evolves`). The `evolutionary transcriptome` emphasises and contextualises the transcriptome as an evolving property. Through the comparative method, one can dissect this layer of an organism's biology.
 
 Tutorials for studying this property of life can be accessed through open-source bioinformatic software applications such as [`myTAI`](https://github.com/drostlab/myTAI) and [`scTEI`](https://github.com/kullrich/scTEI). Running a TAI analysis on an example _Arabidopsis thaliana_ developmental transcriptome, we get
 
@@ -34,13 +34,13 @@ For example, one can infer the correlation (e.g. Pearson) or distance (e.g. Manh
 
 To do this
 
-Step 1: normalise the gene abundance matrix (e.g. raw TPM `TPM.mat`) to have a total probability of 1 for each sample.
+Step 1: normalise the gene abundance matrix (e.g. raw TPM `TPM.mat`) to have a sum total of 1 (since it is a probability) for each sample.
 
 {% highlight R %}
 TPM.norm <- apply(TPM.mat, 2, function(x) x/sum(x)) %>% as.data.frame()
 {% endhighlight %}
 
-Step 2: apply philentropy’s distance function using “jensen-shannon”. Here, we use the package [`philentropy`](https://drostlab.github.io/philentropy/index.html).
+Step 2: using the package [`philentropy`](https://drostlab.github.io/philentropy/index.html), we apply the `distance()` function using the method `jensen-shannon`.
 
 {% highlight R %}
 TPM.JSDiv <- philentropy::distance(t(TPM.norm), use.row.names = TRUE, method = "jensen-shannon")

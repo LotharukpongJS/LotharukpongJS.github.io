@@ -4,7 +4,7 @@ description: "Site home."
 tags: home
 ---
 
-Hi there! My name is Sodai and I am a PhD student at the [`Dept. Algal Development and Evolution`](https://www.bio.mpg.de/48867/algal-development-and-evolution-s) as well as the [`Computational Biology Group`](https://drostlab.com/) at the [`Max Planck Institue for Biology, Tübingen`](https://www.bio.mpg.de/).
+Hi there! My name is Sodai and I am a PhD student at the [`Dept. Algal Development and Evolution`](https://www.bio.mpg.de/48867/algal-development-and-evolution-s) as well as the [`Computational Biology Group`](https://drostlab.com/) at the [`Max Planck Institute for Biology, Tübingen`](https://www.bio.mpg.de/).
 
 ## Bioinformatics
 Contributions to open-source bioinformatic software applications.
@@ -20,7 +20,9 @@ Contributions to open-source bioinformatic software applications.
 [`GenEra`](https://github.com/josuebarrera/GenEra) estimates `gene-family founder events` (i.e., the age of the last common ancestor of protein-coding gene families) through the reimplementation of genomic phylostratigraphy.
 
 ## Biology
-Algal sample collection
+Outside of solitary confinement, we are surrounded by life. I love to learn about the diversity of living forms and the processes that shape their development and evolution. Here are some of my biological adventures.
+
+Algal sample collection in St. Abbs, Scotland.
 
 <img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/PXL_20230821_151113739.jpg?raw=true" width="200" alt="The sea over St. Abbs"> <img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/PXL_20230822_120843250.jpg?raw=true?raw=true" width="200" alt="Tide pool"> <img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/PXL_20230823_163653386.MP.jpg?raw=true" width="200" alt="Ectocarpus">
 
@@ -32,4 +34,4 @@ Here are my publications thus far:
 >  
 > Manley, B. F., **Lotharukpong, J. S.**, Barrera-Redondo, J., Llewellyn, T., Yildirir, G., Sperschneider, J., ... & Dallaire, A. (2023). A highly contiguous genome assembly reveals sources of genomic novelty in the symbiotic fungus Rhizophagus irregularis. G3: Genes, Genomes, Genetics, 13(6), jkad077.
 
-See also in [google scholar](https://scholar.google.com/citations?user=2HiLuNEAAAAJ&hl)
+See also on [google scholar](https://scholar.google.com/citations?user=2HiLuNEAAAAJ&hl)
