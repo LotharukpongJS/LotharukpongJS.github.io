@@ -13,7 +13,11 @@ devtools::install_github("drostlab/myTAI")
 library(myTAI)
 # example dataset covering 7 stages of A thaliana embryo development
 data("PhyloExpressionSetExample")
-PlotSignature(PhyloExpressionSetExample, measure = "TAI", ylab = "TAI", permutations = 20000)
+PlotSignature(
+  PhyloExpressionSetExample, 
+  measure = "TAI", 
+  ylab = "TAI", 
+  permutations = 20000)
 {% endhighlight %}
 
 ![TAI_example](https://github.com/LotharukpongJS/LotharukpongJS.github.io/assets/80110649/4ba1917c-0fc9-4729-8f9e-30d89f37d405)
@@ -30,18 +34,22 @@ For example, one can infer the correlation (e.g. Pearson) or distance (e.g. Manh
 
 To do this
 
-Step 1: normalise the gene abundance matrix (e.g. raw TPM) to have a total probability of 1 for each sample.
+Step 1: normalise the gene abundance matrix (e.g. raw TPM `TPM.mat`) to have a total probability of 1 for each sample.
 
 {% highlight R %}
-apply(merged_mat, 2, function(x) x/sum(x))
+TPM.norm <- apply(TPM.mat, 2, function(x) x/sum(x)) %>% as.data.frame()
 {% endhighlight %}
 
 Step 2: apply philentropy’s distance function using “jensen-shannon”. Here, we use the package [`philentropy`](https://drostlab.github.io/philentropy/index.html).
 
 {% highlight R %}
-philentropy::distance(t(mat_normalized), use.row.names = TRUE, method = "jensen-shannon")
+TPM.JSDiv <- philentropy::distance(t(TPM.norm), use.row.names = TRUE, method = "jensen-shannon")
 {% endhighlight %}
 
 Step 3: square root the Jensen-Shannon divergence to get JSD metric. See [Österreicher & Vajda (2003)](https://link.springer.com/article/10.1007/BF02517812), [Endres & Schindelin (2003)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://www.yaroslavvb.com/papers/endres-new.pdf) and [Fuglede & Topsoe (2004)](https://ieeexplore.ieee.org/abstract/document/1365067).
+
+{% highlight R %}
+TPM.JSD <- sqrt(TPM.JSDiv)
+{% endhighlight %}
 
 You can see an example [here](https://www.nature.com/articles/s41586-018-0734-6/figures/3). But do you notice something wrong with how they calculated this? The distance values are rather big...
