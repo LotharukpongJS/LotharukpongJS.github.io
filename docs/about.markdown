@@ -2,6 +2,7 @@
 layout: page
 title: About me
 permalink: /about/
+image_height: 300
 ---
 
 My name is Jaruwatana Sōdai Lotharukpong (จารุวัฒนา 壮大 โลทารักษ์พงศ์), a PhD student at the Max Planck Institue for Biology (Tübingen, Germany). Like my cultural background, my interests are a mishmash of various fields including: `developmental biology`, `systems biology`, and `bioinformatics`. I love how ideas from different traditions can together create wonderful and new concepts. This site is just about that!
@@ -12,5 +13,6 @@ Current affiliations: [`Dept. Algal Development and Evolution`](https://www.bio.
 
 Former affiliations: [`Dept. Zoology, Cambridge`](https://www.zoo.cam.ac.uk/) :: [`Peterhouse`](https://www.pet.cam.ac.uk/) :: [`Dept. Life Sciences, Imperial College London`](https://www.imperial.ac.uk/life-sciences/)
 
-<img src="PXL_20230821_151113739.jpg" height="300" alt="Sampling in St. Abbs"> 
-<img src="PXL_20230823_163653386.MP.jpg" height="300" alt="Ectocarpus">
+![image](/images/PXL_20230821_151113739.jpg){: height="{{ page.image_height }}"}
+
+![image](/images/PXL_20230823_163653386.MP.jpg){: height="{{ page.image_height }}"}
