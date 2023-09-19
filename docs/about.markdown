@@ -16,4 +16,4 @@ Former affiliations:
 
 [`Dept. Zoology, Cambridge`](https://www.zoo.cam.ac.uk/) :: [`Peterhouse`](https://www.pet.cam.ac.uk/) :: [`Dept. Life Sciences, Imperial College London`](https://www.imperial.ac.uk/life-sciences/)
 
-<img src="/images/PXL_20230821_151113739.jpg" height="300" /> <img src="/images/PXL_20230823_163653386.MP.jpg" height="300" />
+<img src="/images/PXL_20230821_151113739.jpg" height="300" > <img src="/images/PXL_20230823_163653386.MP.jpg" height="300" >
