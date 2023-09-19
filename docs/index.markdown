@@ -6,13 +6,12 @@ image:
   background: /images/PXL_20230823_163653386.MP.jpg
 ---
 
+Hi there! My name is Sodai and I am a PhD student at the [`Dept. Algal Development and Evolution`](https://www.bio.mpg.de/48867/algal-development-and-evolution-s) as well as the [`Computational Biology Group`](https://drostlab.com/) at the [`Max Planck Institue for Biology, Tübingen`](https://www.bio.mpg.de/).
+
 ## Bioinformatics
 Contributions to open-source bioinformatic software applications.
 
-[<img src="/images/GenEra_logo_dark.png" height="174" width="150" />](https://github.com/josuebarrera/GenEra)
-[<img src="/images/myTAI_logo.png" height="174" width="150" />](https://drostlab.github.io/myTAI)
-[<img src="/images/orthologr_logo.png" height="174" width="150" />](https://drostlab.github.io/orthologr)
-[<img src="/images/phylomapr_logo.png" height="174" width="150" />](https://lotharukpongjs.github.io/phylomapr/)
+<img src="/images/GenEra_logo_dark.png" height="174" width="150" /> <img src="/images/myTAI_logo.png" height="174" width="150" /> <img src="/images/orthologr_logo.png" height="174" width="150" /> <img src="/images/phylomapr_logo.png" height="174" width="150" />
 
 
 [`GenEra`](https://github.com/josuebarrera/GenEra) estimates gene-family founder events (i.e., the age of the last common ancestor of protein-coding gene families) through the reimplementation of genomic phylostratigraphy.
