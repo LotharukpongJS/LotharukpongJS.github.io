@@ -22,7 +22,7 @@ Contributions to open-source bioinformatic software applications.
 ## Biology
 Algal sample collection
 
-<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/PXL_20230821_151113739.jpg?raw=true" width="250" alt="The sea over St. Abbs"> <img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/PXL_20230822_120843250.jpg?raw=true?raw=true" width="250" alt="Tide pool"> <img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/PXL_20230823_163653386.MP.jpg?raw=true" width="250" alt="Ectocarpus">
+<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/PXL_20230821_151113739.jpg?raw=true" width="200" alt="The sea over St. Abbs"> <img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/PXL_20230822_120843250.jpg?raw=true?raw=true" width="200" alt="Tide pool"> <img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/PXL_20230823_163653386.MP.jpg?raw=true" width="200" alt="Ectocarpus">
 
 
 ## Publications
