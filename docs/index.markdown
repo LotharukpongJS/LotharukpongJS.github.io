@@ -1,9 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+description: "Site home."
+tags: home
 image:
-  background: PXL_20230823_163653386.MP.jpg
+  background: /images/PXL_20230823_163653386.MP.jpg
 ---
 
+# Open-source bioinformatic software applications
+Toolkits I have contributed to.
+
+[![GenEra](/images/genEra_logo.jpg)](https://github.com/josuebarrera/GenEra)
+[![myTAI](/images/myTAI_logo.jpg)](https://drostlab.github.io/myTAI/)
+[![orthologr](/images/orthologr_logo.jpg)](https://drostlab.github.io/orthologr/)
+[![phylomapr](/images/phylomapr_logo.jpg)](https://lotharukpongjs.github.io/phylomapr/)
