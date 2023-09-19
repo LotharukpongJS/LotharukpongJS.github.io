@@ -12,6 +12,6 @@ Current affiliations: [`Dept. Algal Development and Evolution`](https://www.bio.
 
 Former affiliations: [`Dept. Zoology, Cambridge`](https://www.zoo.cam.ac.uk/) :: [`Peterhouse`](https://www.pet.cam.ac.uk/) :: [`Dept. Life Sciences, Imperial College London`](https://www.imperial.ac.uk/life-sciences/)
 
-![](images/PXL_20230821_151113739.jpg)
+![](../images/PXL_20230821_151113739.jpg)
 
-![](images/PXL_20230823_163653386.MP.jpg)
+![](../images/PXL_20230823_163653386.MP.jpg)
