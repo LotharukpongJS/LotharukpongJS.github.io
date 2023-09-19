@@ -9,15 +9,21 @@ Hi there! My name is Sodai and I am a PhD student at the [`Dept. Algal Developme
 ## Bioinformatics
 Contributions to open-source bioinformatic software applications.
 
-[<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/GenEra_logo_dark.png?raw=true" width="150">](https://github.com/josuebarrera/GenEra) [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/myTAI_logo.png?raw=true" width="150">](https://drostlab.github.io/myTAI) <img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/orthologr_logo.png?raw=true" width="150"> <img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/phylomapr_logo.png?raw=true" width="150">
+[<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/orthologr_logo.png?raw=true" width="150">](https://drostlab.github.io/orthologr) [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/myTAI_logo.png?raw=true" width="150">](https://drostlab.github.io/myTAI) [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/phylomapr_logo.png?raw=true" width="150">](https://lotharukpongjs.github.io/phylomapr) [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/GenEra_logo_dark.png?raw=true" width="150">](https://github.com/josuebarrera/GenEra)
 
-[`GenEra`](https://github.com/josuebarrera/GenEra) estimates gene-family founder events (i.e., the age of the last common ancestor of protein-coding gene families) through the reimplementation of genomic phylostratigraphy.
+[`orthologr`](https://drostlab.github.io/orthologr) provides a framework to perform large scale `comparative genomics` studies with R.
 
-[`myTAI`](https://drostlab.github.io/myTAI) introduces procedures summarized under the term evolutionary transcriptomics to integrate gene age information into classical gene expression analysis in R.
+[`myTAI`](https://drostlab.github.io/myTAI) introduces procedures summarised under the term `evolutionary transcriptomics` to integrate gene age information into classical gene expression analysis in R.
 
-[`orthologr`](https://drostlab.github.io/orthologr) provides a framework to perform large scale comparative genomics studies with R.
+[`phylomapr`](https://lotharukpongjs.github.io/phylomapr/) enables quick retrieval of precomputed `gene age maps` (phylomaps) in R.
 
-[`phylomapr`](https://lotharukpongjs.github.io/phylomapr/) enables quick retrieval of precomputed gene age maps (phylomaps) in R.
+[`GenEra`](https://github.com/josuebarrera/GenEra) estimates `gene-family founder events` (i.e., the age of the last common ancestor of protein-coding gene families) through the reimplementation of genomic phylostratigraphy.
+
+## Biology
+Algal sample collection
+
+<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/PXL_20230821_151113739.jpg?raw=true" width="250" alt="The sea over St. Abbs"> <img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/PXL_20230822_120843250.jpg?raw=true?raw=true" width="250" alt="Tide pool"> <img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/PXL_20230823_163653386.MP.jpg?raw=true" width="250" alt="Ectocarpus">
+
 
 ## Publications
 Here are my publications thus far: 
