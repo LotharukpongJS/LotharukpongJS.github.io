@@ -4,7 +4,7 @@ description: "Site home."
 tags: home
 ---
 
-Hi there! My name is Sodai and I am a PhD student at the [`Dept. Algal Development and Evolution`](https://www.bio.mpg.de/48867/algal-development-and-evolution-s) as well as the [`Computational Biology Group`](https://drostlab.com/) at the [`Max Planck Institute for Biology, Tübingen`](https://www.bio.mpg.de/).
+I am a doctoral researcher at the [Dept. Algal Development and Evolution](https://www.bio.mpg.de/48867/algal-development-and-evolution-s) as well as the [Computational Biology Group](https://drostlab.com/) at the [Max Planck Institute for Biology, Tübingen](https://www.bio.mpg.de/).
 
 ## Bioinformatics
 Contributions to open-source bioinformatic software applications.
@@ -28,10 +28,11 @@ Algal sample collection in St. Abbs, Scotland.
 
 
 ## Publications
-Here are my publications thus far: 
 
-> Barrera-Redondo, J., **Lotharukpong, J. S.**, Drost, H. G., & Coelho, S. M. (2023). Uncovering gene-family founder events during major evolutionary transitions in animals, plants and fungi using GenEra. Genome Biology, 24(1), 54.
+> Barrera-Redondo, J., **Lotharukpong, J. S.**, Drost, H-G., & Coelho, S. M. (2023). Uncovering gene-family founder events during major evolutionary transitions in animals, plants and fungi using GenEra. Genome Biology, 24(1), 54.
 >  
 > Manley, B. F., **Lotharukpong, J. S.**, Barrera-Redondo, J., Llewellyn, T., Yildirir, G., Sperschneider, J., ... & Dallaire, A. (2023). A highly contiguous genome assembly reveals sources of genomic novelty in the symbiotic fungus Rhizophagus irregularis. G3: Genes, Genomes, Genetics, 13(6), jkad077.
-
+>
+> **Lotharukpong, J. S.**, Zheng, M., Luthringer, R., Liesner, D., Drost, H-G., & Coelho, S. M. (2024). A transcriptomic hourglass in brown algae. biorxiv.
+>
 See also on [google scholar](https://scholar.google.com/citations?user=2HiLuNEAAAAJ&hl)
