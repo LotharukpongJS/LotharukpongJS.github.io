@@ -20,10 +20,10 @@
 
 title: Sodai Lotharukpong
 # email: jaruwatana.lotharukpong@tuebingen.mpg.de
-description: Studying biological processes across the tree of life
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SodaiL
+description: Natural history - using a computer
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: SodaiL
 github_username:  LotharukpongJS
 
 # Build settings

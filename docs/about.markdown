@@ -4,9 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/portrait-074.jpg?raw=true">
+<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/aboutme.png?raw=true">
 
-<blockquote style="font-size: 2em; font-style: italic; text-align: center; margin: 20px 0;">
+<blockquote style="font-size: 1.5em; font-style: italic; text-align: center; margin: 20px 0;">
   "Limited forms most beautiful"
 </blockquote>
 
@@ -16,7 +16,7 @@ My curiosity lies on the other side of the coin: what factors **limit** biodiver
 
 Since my wet-lab skills are not so advanced, I have decided to explore these questions on a computer. 
 
-I am grateful to Susana Coelho who directs the [Dept. Algal Development and Evolution](https://www.bio.mpg.de/48867/algal-development-and-evolution-s) at the [MPI for Biology](https://www.bio.mpg.de/) for hosting me as a PhD candidate in Bioinformatics to explore these fundamental biological questions in brown algae, which evolved complex multicellularity independently from animals, plants and fungi. I also thank Hajk-Georg Drost who leads the [Computational Biology Group](https://drostlab.com/) for the expertise in evolutionary transcriptomics and the opportunity to contribute to open source projects. Aside from my direct research projects, I am generally interested in bioinformatics, developmental biology and systems-thinking in biology.
+I am grateful to Prof. Susana Coelho who directs the [Dept. Algal Development and Evolution](https://www.bio.mpg.de/48867/algal-development-and-evolution-s) at the [MPI for Biology](https://www.bio.mpg.de/) for hosting me as a PhD candidate in Bioinformatics to explore these fundamental biological questions in brown algae, which evolved complex multicellularity independently from animals, plants and fungi. I also thank Prof. Hajk-Georg Drost who leads the [Computational Biology Group](https://drostlab.com/) for the expertise in evolutionary transcriptomics and the opportunity to contribute to open source projects. Aside from my direct research projects, I am generally interested in bioinformatics, developmental biology and systems-thinking in biology.
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">

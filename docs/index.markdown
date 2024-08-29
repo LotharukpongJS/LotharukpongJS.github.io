@@ -11,13 +11,13 @@ Contributions to open-source bioinformatic software applications.
 
 [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/orthologr_logo.png?raw=true" width="150">](https://drostlab.github.io/orthologr) [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/myTAI_logo.png?raw=true" width="150">](https://drostlab.github.io/myTAI) [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/phylomapr_logo.png?raw=true" width="150">](https://lotharukpongjs.github.io/phylomapr) [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/GenEra_logo_dark.png?raw=true" width="150">](https://github.com/josuebarrera/GenEra)
 
-[`orthologr`](https://drostlab.github.io/orthologr) provides a framework to perform large scale `comparative genomics` studies with R.
+[`orthologr`](https://drostlab.github.io/orthologr) provides a framework to perform large scale **comparative genomics** studies with R.
 
-[`myTAI`](https://drostlab.github.io/myTAI) introduces procedures summarised under the term `evolutionary transcriptomics` to integrate gene age information into classical gene expression analysis in R.
+[`myTAI`](https://drostlab.github.io/myTAI) introduces procedures summarised under the term **evolutionary transcriptomics** to integrate gene age information into classical gene expression analysis in R.
 
-[`phylomapr`](https://lotharukpongjs.github.io/phylomapr/) enables quick retrieval of precomputed `gene age maps` (phylomaps) in R.
+[`phylomapr`](https://lotharukpongjs.github.io/phylomapr/) enables quick retrieval of precomputed **gene age maps** (phylomaps) in R.
 
-[`GenEra`](https://github.com/josuebarrera/GenEra) estimates `gene-family founder events` (i.e., the age of the last common ancestor of protein-coding gene families) through the reimplementation of genomic phylostratigraphy.
+[`GenEra`](https://github.com/josuebarrera/GenEra) estimates **gene-family founder events** (i.e., the age of the last common ancestor of protein-coding gene families) through the reimplementation of genomic phylostratigraphy at the tree of life scale.
 
 ## Biology
 Outside of solitary confinement, we are surrounded by life. I love to learn about the diversity of living forms and the processes that shape their development and evolution. Here are some of my biological adventures.
