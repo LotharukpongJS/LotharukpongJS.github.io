@@ -43,9 +43,9 @@ See also on [google scholar](https://scholar.google.com/citations?user=2HiLuNEAA
 
 ## Media
 
-The Node
+The Node (https://thenode.biologists.com/)
 > [Behind the paper: A transcriptomic hourglass in brown algae](https://thenode.biologists.com/behind-the-paper-a-transcriptomic-hourglass-in-brown-algae/research/)
->
-European Reference Genome Atlas (ERGA)
+
+European Reference Genome Atlas (ERGA) (https://www.erga-biodiversity.eu/)
 > [Evolutionary transcriptomics in brown algae](https://www.erga-biodiversity.eu/post/a-transcriptomic-hourglass-in-brown-algae)
 
