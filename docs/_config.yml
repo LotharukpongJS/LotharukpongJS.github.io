@@ -28,8 +28,9 @@ github_username:  LotharukpongJS
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+body-font: Georgia
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
