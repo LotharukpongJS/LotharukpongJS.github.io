@@ -28,7 +28,6 @@ github_username:  LotharukpongJS
 
 # Build settings
 theme: minima
-body-font: Georgia
 # plugins:
 #   - jekyll-feed
 

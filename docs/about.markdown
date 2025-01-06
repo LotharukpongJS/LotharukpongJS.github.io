@@ -37,4 +37,4 @@ I am grateful to Prof. Susana Coelho who directs the [Dept. Algal Development an
 </table>
 
 See more:
-[`ORCID`](https://orcid.org/0000-0002-3475-0980) :: [`google scholar`](https://scholar.google.com/citations?user=2HiLuNEAAAAJ&hl) :: [`X/twitter`](https://twitter.com/SodaiL)
+[`ORCID`](https://orcid.org/0000-0002-3475-0980) :: [`google scholar`](https://scholar.google.com/citations?user=2HiLuNEAAAAJ&hl) :: [`Bluesky`](https://bsky.app/profile/sodail.bsky.social) :: [`X/twitter`](https://twitter.com/SodaiL)
