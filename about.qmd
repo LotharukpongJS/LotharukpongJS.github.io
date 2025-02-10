@@ -1,0 +1,58 @@
+---
+title: "about me"
+format: html
+editor: visual
+---
+
+![](https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/aboutme.png?raw=true)
+
+I was born in Kagoshima (Japan), grew up in Bangkok (Thailand) and studied in London (BSc. in Biological Sciences from [Imperial College London](https://www.imperial.ac.uk/)), Cambridge (MPhil in Zooology from [University of Cambridge](https://www.cam.ac.uk/)). I am now based in southern Germany at the [Max Planck Institute for Biology](www.bio.mpg.de) in Tübingen, working on my PhD in Bioinformatics.
+
+```{r}
+#| label: load-packages
+#| include: false
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(ggplot2)
+library(sf)
+library(tidyverse)
+```
+
+```{r dev.args=list(bg="transparent")}
+#| label: plot-map
+#| warning: false
+#| echo: false
+world <- ne_countries(scale = "medium", returnclass = "sf")
+
+events <- tribble(
+  ~event, ~lat, ~lng,
+  "born", 31.5969, 130.5571,
+  "school", 13.7563, 100.5018,
+  "undergrad", 51.5072, -0.1276,
+  "masters", 52.1951, 0.1313,
+  "current/PhD", 48.5216, 9.0576
+)
+
+events_sf <- st_as_sf(events, coords = c("lng", "lat"), crs = 4326)
+
+# Create a line connecting the points
+event_lines <- st_linestring(as.matrix(events[, c("lng", "lat")])) |>
+  st_sfc(crs = 4326) |>
+  st_sf()
+
+# Plot the map with points and connecting lines
+ggplot() +
+  geom_sf(data = world, fill = "grey", alpha = 0.1, color = "grey") +  # World map
+  geom_sf(data = event_lines, color = "#EB8317", linewidth = 1) +       # Line connecting events
+  geom_sf(data = events_sf, aes(color = event), colour = "#10375C", size = 3) +     # Points for events
+  # coord_sf(crs = "+proj=aitoff") +
+  coord_sf(crs = "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +units=m +no_defs ") +
+  theme_minimal() +
+  theme(panel.background = element_blank())
+```
+
+PhD supervisors: Susana Coelho (director::[Department for Algal Development and Evolution](https://www.bio.mpg.de/48867/algal-development-and-evolution-s)) and Hajk-Georg Drost (group leader::[Computational Biology Group](https://drostlab.com/), now associate professor in Dundee).
+
+Aside from my direct research projects, I am generally interested in bioinformatics, developmental biology and informations-thinking in biology.
+
+See more: [`ORCID`](https://orcid.org/0000-0002-3475-0980) :: [`google scholar`](https://scholar.google.com/citations?user=2HiLuNEAAAAJ&hl) :: [`Bluesky`](https://bsky.app/profile/sodail.bsky.social) :: [`X/twitter`](https://twitter.com/SodaiL)

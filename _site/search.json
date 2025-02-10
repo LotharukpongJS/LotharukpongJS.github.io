@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "brown_algae.html",
+    "href": "brown_algae.html",
+    "title": "why brown algae?",
+    "section": "",
+    "text": "You might be wondering: why brown algae?\nI find them super interesting due to one key fact: they evolved complex multicellularity independently of animals, plants, fungi and red algae.\nAs such, these organisms give a unique lens into the principles of development and evolution of multicellularity.\n\n\n\nA kelp forest (By Stef Maruch - kelp-forest.jpg, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=3140862)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "natural philosophy on a laptop",
+    "section": "",
+    "text": "From the diverse life forms we observe on Earth, a question often arises: what generates this biodiversity?\nMy curiosity lies on the other side of the coin: what limits biodiversity?\nOne factor is the process of development that creates these organisms in the first place. But exactly how - and are findings in model systems generally shared across Earth’s diverse life forms?\nAs a doctoral research at the Max Planck Institute for Biology (Tübingen, Germany), I seek answers to these biological questions through bioinformatics research using the brown algae as a model system."
+  },
+  {
+    "objectID": "index.html#bioinformatics",
+    "href": "index.html#bioinformatics",
+    "title": "natural philosophy on a laptop",
+    "section": "bioinformatics",
+    "text": "bioinformatics\nContributions to open-source bioinformatic software applications.\n   \northologr provides a framework to perform large scale comparative genomics studies with R.\nmyTAI introduces procedures summarised under the term evolutionary transcriptomics to integrate gene age information into classical gene expression analysis in R.\nphylomapr enables quick retrieval of precomputed gene age maps (phylomaps) in R.\nGenEra estimates gene-family founder events (i.e., the age of the last common ancestor of protein-coding gene families) through the reimplementation of genomic phylostratigraphy at the tree of life scale."
+  },
+  {
+    "objectID": "index.html#in-the-field",
+    "href": "index.html#in-the-field",
+    "title": "natural philosophy on a laptop",
+    "section": "in the field",
+    "text": "in the field\nI am not just bound to my computer. Here are some of my biological adventures.\nAlgal sample collection in St. Abbs, Scotland."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "natural philosophy on a laptop",
+    "section": "publications",
+    "text": "publications\n\nBarrera-Redondo, J., Lotharukpong, J. S., Drost, H-G., & Coelho, S. M. (2023). Uncovering gene-family founder events during major evolutionary transitions in animals, plants and fungi using GenEra. Genome Biology, 24(1), 54.\nManley, B. F., Lotharukpong, J. S., Barrera-Redondo, J., Llewellyn, T., Yildirir, G., Sperschneider, J., … & Dallaire, A. (2023). A highly contiguous genome assembly reveals sources of genomic novelty in the symbiotic fungus Rhizophagus irregularis. G3: Genes, Genomes, Genetics, 13(6), jkad077.\nLotharukpong, J. S., Zheng, M., Luthringer, R., Liesner, D., Drost, H-G., & Coelho, S. M. (2024). A transcriptomic hourglass in brown algae. Nature 635, 129–135\n\nSee also on google scholar"
+  },
+  {
+    "objectID": "index.html#media",
+    "href": "index.html#media",
+    "title": "natural philosophy on a laptop",
+    "section": "media",
+    "text": "media\nThe Node (https://thenode.biologists.com/)\n\nBehind the paper: A transcriptomic hourglass in brown algae\n\nEuropean Reference Genome Atlas (ERGA) (https://www.erga-biodiversity.eu/)\n\nEvolutionary transcriptomics in brown algae"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about me",
+    "section": "",
+    "text": "I was born in Kagoshima (Japan), grew up in Bangkok (Thailand) and studied in London (BSc. in Biological Sciences from Imperial College London), Cambridge (MPhil in Zooology from University of Cambridge). I am now based in southern Germany at the Max Planck Institute for Biology in Tübingen, working on my PhD in Bioinformatics.\n\n\n\n\n\n\n\n\n\nPhD supervisors: Susana Coelho (director::Department for Algal Development and Evolution) and Hajk-Georg Drost (group leader::Computational Biology Group, now associate professor in Dundee).\nAside from my direct research projects, I am generally interested in bioinformatics, developmental biology and informations-thinking in biology.\nSee more: ORCID :: google scholar :: Bluesky :: X/twitter"
+  }
+]
