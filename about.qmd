@@ -6,7 +6,7 @@ editor: visual
 
 ![](https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/aboutme.png?raw=true)
 
-I was born in Kagoshima (Japan), grew up in Bangkok (Thailand) and studied in London (BSc. in Biological Sciences from [Imperial College London](https://www.imperial.ac.uk/)), Cambridge (MPhil in Zooology from [University of Cambridge](https://www.cam.ac.uk/)). I am now based in southern Germany at the [Max Planck Institute for Biology](www.bio.mpg.de) in Tübingen, working on my PhD in Bioinformatics.
+I was born in Kagoshima (Japan), grew up in Bangkok (Thailand) and studied in London (BSc. in Biological Sciences from [Imperial College London](https://www.imperial.ac.uk/)), Cambridge (MPhil in Zooology from [University of Cambridge](https://www.cam.ac.uk/)). I am now based in southern Germany at the [Max Planck Institute for Biology](https://www.bio.mpg.de/) in Tübingen, working on my PhD in Bioinformatics.
 
 ```{r}
 #| label: load-packages
