@@ -1,0 +1,32 @@
+#body {
+  background-color: #F4F6FF;
+}
+h1 {
+  color: #000000;
+}
+p {
+  color: #000000;
+  font-family: georgia;
+  font-size: 100%;
+}
+a {
+  outline-color: transparent;
+}
+
+a:link {
+  color: #EB8317;
+}
+
+a:visited {
+  color: #10375C;
+}
+
+a:focus {
+  text-decoration: none;
+  background: #EB8317;
+}
+
+a:hover {
+  text-decoration: none;
+  background: #F3C623;
+}
