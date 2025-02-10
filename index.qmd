@@ -10,7 +10,7 @@ My curiosity lies on the other side of the coin: what **limits** biodiversity?
 
 One factor is the process of development that creates these organisms in the first place. But exactly how - and are findings in model systems generally shared across Earth's diverse life forms?
 
-As a doctoral research at the [Max Planck Institute for Biology](https://www.bio.mpg.de/) (Tübingen, Germany), I seek answers to these biological questions through bioinformatics research using the brown algae as a model system.
+As a doctoral researcher at the [Max Planck Institute for Biology](https://www.bio.mpg.de/) (Tübingen, Germany), I seek answers to these biological questions through bioinformatics research using [brown algae](brown_algae.html) as a model system.
 
 ## bioinformatics
 
@@ -26,7 +26,7 @@ Contributions to open-source bioinformatic software applications.
 
 [`GenEra`](https://github.com/josuebarrera/GenEra) estimates **gene-family founder events** (i.e., the age of the last common ancestor of protein-coding gene families) through the reimplementation of genomic phylostratigraphy at the tree of life scale.
 
-## in the field
+## ...in the field
 
 I am not just bound to my computer. Here are some of my biological adventures.
 
