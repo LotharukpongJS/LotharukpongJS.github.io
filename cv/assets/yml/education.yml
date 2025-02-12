@@ -1,0 +1,15 @@
+phd:
+  title: Ph.D. in Bioinformatics
+  location: Tübingen, Germany
+  date: ongoing
+  description: Max Planck Institute for Biology Tübingen
+master:
+  title: MPhil. in Zoology
+  location: Cambridge, UK
+  date: 2020 - 2021
+  description: University of Cambridge
+bachelors:
+  title: B.Sc. in Biological Sciences
+  location: London, UK
+  date: 2017-2020
+  description: Imperial College London

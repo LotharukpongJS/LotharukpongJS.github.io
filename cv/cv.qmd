@@ -1,0 +1,42 @@
+---
+style:
+   color-accent: '10375C'
+   font-header: "Arial"
+   font-text: "Georgia"
+title: "curriculum vitae"
+author:
+  firstname: Jaruwatana Sodai
+  lastname: Lotharukpong
+  address: "Max-Planck-Ring 5, 72076 Tübingen"
+  position: "Doctoral Researcher ・ Bioinformatician"
+  contacts:
+    - icon: fa envelope
+      text: jlotharukpong[at]tuebingen[dot]mpg[dot]de
+    - icon: fa brands orcid
+      text: 0000-0002-3475-0980
+      url: https://orcid.org/0000-0002-3475-0980
+    - icon: fa brands github
+      text: GitHub
+      url: https://github.com/LotharukpongJS
+format: awesomecv-typst
+---
+
+## Education
+
+{{< yaml assets/yml/education.yml >}}
+
+## Publications
+
+{{< yaml assets/yml/publication.yml >}}
+
+## Research Experience
+
+{{< yaml assets/yml/work.yml >}}
+
+## Awards
+
+{{< yaml assets/yml/award.yml >}}
+
+## Skills
+
+{{< yaml assets/yml/skill.yml >}}

@@ -1,0 +1,15 @@
+benito_intern:
+  title: Master's Thesis
+  location: Cambridge, UK
+  date: 2020-2021
+  description: Genome assembly, phylogenetics and comparative genomics in Cephalochordates (Dr. Christopher Laumer & Dr. Elia Benito-Gutiérrez - University of Cambridge)
+endres_intern:
+  title: Bachelor's Thesis
+  location: London, UK
+  date: 2020
+  description: Biophysical model for spore germination (Prof. Robert Endres & Harry Cavanagh - Imperial College London)
+barkoulas_intern:
+  title: Intern Student
+  location: London, UK
+  date: 2019
+  description: In vivo transdifferentiation in C. elegans (Dr. Mark Hintze & Dr. Michalis Barkoulas - Imperial College London)

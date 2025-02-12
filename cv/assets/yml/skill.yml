@@ -1,0 +1,9 @@
+lang:
+  title: Languages
+  description: English, German (intermediate), Japanese (int.), Thai (int.)
+programming:
+  title: Programming Languages
+  description: R, Bash
+wet-lab:
+  title: Biology
+  description: Molecular cloning, transgenics (C. elegans), microinjection (C. elegans), embryology (chick)

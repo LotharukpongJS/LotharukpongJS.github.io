@@ -2,16 +2,23 @@
   {
     "objectID": "brown_algae.html",
     "href": "brown_algae.html",
-    "title": "why brown algae?",
+    "title": "brown algae",
     "section": "",
-    "text": "You might be wondering: why brown algae?\nI find them super interesting due to one key fact: they evolved complex multicellularity independently of animals, plants, fungi and red algae.\nAs such, these organisms give a unique lens into the principles of development and evolution of multicellularity.\n\n\n\nA kelp forest (By Stef Maruch - kelp-forest.jpg, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=3140862)"
+    "text": "You might be wondering: why brown algae?\nI find them super interesting due to one key fact: they evolved complex multicellularity independently of animals, plants, fungi and red algae.\nAs such, these organisms give a unique lens into the principles of development and evolution of multicellularity."
+  },
+  {
+    "objectID": "brown_algae.html#footnotes",
+    "href": "brown_algae.html#footnotes",
+    "title": "brown algae",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nBy Stef Maruch - kelp-forest.jpg, CC BY-SA 2.0↩︎"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "natural philosophy on a laptop",
     "section": "",
-    "text": "From the diverse life forms we observe on Earth, a question often arises: what generates this biodiversity?\nMy curiosity lies on the other side of the coin: what limits biodiversity?\nOne factor is the process of development that creates these organisms in the first place. But exactly how - and are findings in model systems generally shared across Earth’s diverse life forms?\nAs a doctoral research at the Max Planck Institute for Biology (Tübingen, Germany), I seek answers to these biological questions through bioinformatics research using the brown algae as a model system."
+    "text": "From the diverse life forms we observe on Earth, a question often arises: what generates this biodiversity?\nMy curiosity lies on the other side of the coin: what limits biodiversity?\nOne factor is the process of development that creates these organisms in the first place. But exactly how - and are findings in model systems generally shared across Earth’s diverse life forms?\nAs a doctoral researcher at the Max Planck Institute for Biology (Tübingen, Germany), I seek answers to these biological questions through bioinformatics research using brown algae as a model system."
   },
   {
     "objectID": "index.html#bioinformatics",
@@ -24,8 +31,8 @@
     "objectID": "index.html#in-the-field",
     "href": "index.html#in-the-field",
     "title": "natural philosophy on a laptop",
-    "section": "in the field",
-    "text": "in the field\nI am not just bound to my computer. Here are some of my biological adventures.\nAlgal sample collection in St. Abbs, Scotland."
+    "section": "…in the field",
+    "text": "…in the field\nI am not just bound to my computer. Here are some of my biological adventures.\nAlgal sample collection in St. Abbs, Scotland."
   },
   {
     "objectID": "index.html#publications",
@@ -46,6 +53,6 @@
     "href": "about.html",
     "title": "about me",
     "section": "",
-    "text": "I was born in Kagoshima (Japan), grew up in Bangkok (Thailand) and studied in London (BSc. in Biological Sciences from Imperial College London), Cambridge (MPhil in Zooology from University of Cambridge). I am now based in southern Germany at the Max Planck Institute for Biology in Tübingen, working on my PhD in Bioinformatics.\n\n\n\n\n\n\n\n\n\nPhD supervisors: Susana Coelho (director::Department for Algal Development and Evolution) and Hajk-Georg Drost (group leader::Computational Biology Group, now associate professor in Dundee).\nAside from my direct research projects, I am generally interested in bioinformatics, developmental biology and informations-thinking in biology.\nSee more: ORCID :: google scholar :: Bluesky :: X/twitter"
+    "text": "I was born in Kagoshima (Japan), grew up in Bangkok (Thailand) and studied in London (BSc. in Biological Sciences from Imperial College London) and Cambridge (MPhil in Zoology from University of Cambridge). I am now based in southern Germany at the Max Planck Institute for Biology in Tübingen, working towards a PhD in Bioinformatics.\n\n\n\n\n\n\n\n\n\nPhD supervisors: Susana Coelho (director::Department for Algal Development and Evolution) and Hajk-Georg Drost (group leader::Computational Biology Group, now associate professor in Dundee).\nAside from my direct research projects, I am generally interested in bioinformatics, developmental biology and informations-thinking in biology.\nSee more: ORCID :: google scholar :: Bluesky :: X/twitter"
   }
 ]

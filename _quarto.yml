@@ -11,6 +11,8 @@ website:
         text: about
       - href: brown_algae.qmd
         text: why brown algae?
+      - href: cv/cv.qmd
+        text: download cv
 
 format:
   html:

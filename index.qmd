@@ -2,6 +2,7 @@
 title: "natural philosophy on a laptop"
 format: html
 editor: visual
+lang: en-GB
 ---
 
 From the diverse life forms we observe on Earth, a question often arises: what generates this biodiversity?
