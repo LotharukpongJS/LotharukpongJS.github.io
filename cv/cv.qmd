@@ -33,10 +33,10 @@ format: awesomecv-typst
 
 {{< yaml assets/yml/work.yml >}}
 
-## Awards
-
-{{< yaml assets/yml/award.yml >}}
-
 ## Skills
 
 {{< yaml assets/yml/skill.yml >}}
+
+## Awards
+
+{{< yaml assets/yml/award.yml >}}
