@@ -30,3 +30,30 @@ a:hover {
   text-decoration: none;
   background: #F3C623;
 }
+
+.animated-title {
+    display: inline-block;
+    min-width: 10ch; /* Ensures space is reserved */
+    text-align: left; /* Left-align text */
+    white-space: nowrap; /* Prevents wrapping */
+}
+
+.animated-title::before {
+    content: "ꙩ ꙫ ө ꚛ ꙮ ༗"; /* Default full text */
+    visibility: visible; /* Prevents layout shift */
+    display: block;
+    text-align: left;
+}
+
+.animated-title:hover::before {
+    animation: animateTitle 2s steps(6) forwards;
+}
+
+@keyframes animateTitle {
+    0% { content: "ꙩ"; }
+    20% { content: "ꙩ ꙫ"; }
+    40% { content: "ꙩ ꙫ ө"; }
+    60% { content: "ꙩ ꙫ ө ꚛ"; }
+    80% { content: "ꙩ ꙫ ө ꚛ ꙮ"; }
+    100% { content: "ꙩ ꙫ ө ꚛ ꙮ ༗"; }
+}
