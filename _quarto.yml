@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "ꙩ ꙫ ө ꚛ ꙮ ༗"
+  title: "<span class='animated-title'></span>"
   navbar:
     left:
       - href: index.qmd
