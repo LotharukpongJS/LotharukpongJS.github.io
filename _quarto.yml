@@ -3,6 +3,7 @@ project:
 
 website:
   title: "<span class='animated-title'></span>"
+  favicon: images/website_logo.jpg
   navbar:
     left:
       - href: index.qmd
