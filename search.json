@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "natural philosophy on a laptop",
     "section": "",
-    "text": "From the diverse life forms we observe on Earth, a question often arises: what generates this biodiversity?\nMy curiosity lies on the other side of the coin: what limits biodiversity?\nOne factor is the process of development that creates these organisms in the first place. But exactly how - and are findings in model systems generally shared across Earth’s diverse life forms?\nAs a doctoral researcher at the Max Planck Institute for Biology (Tübingen, Germany), I seek answers to these biological questions through bioinformatics research using brown algae as a model system."
+    "text": "Ever since ancient times, the incredible diversity of life forms on our planet has inspired us to ask: what creates this biodiversity?\nMy curiosity lies on the other side of the coin — what sets the limits to this biodiversity?\nOne clue is in the developmental processes that create each organism in the first place. Yet how exactly does development shape evolution, and to what extent can findings from established model systems be generalised across the tree of life?\nAs a doctoral researcher at the Max Planck Institute for Biology (Tübingen, Germany), I seek answers to these biological questions through bioinformatics research using brown algae as a model system."
   },
   {
     "objectID": "index.html#bioinformatics",
@@ -28,11 +28,11 @@
     "text": "bioinformatics\nContributions to open-source bioinformatic software applications.\n   \northologr provides a framework to perform large scale comparative genomics studies with R.\nmyTAI introduces procedures summarised under the term evolutionary transcriptomics to integrate gene age information into classical gene expression analysis in R.\nphylomapr enables quick retrieval of precomputed gene age maps (phylomaps) in R.\nGenEra estimates gene-family founder events (i.e., the age of the last common ancestor of protein-coding gene families) through the reimplementation of genomic phylostratigraphy at the tree of life scale."
   },
   {
-    "objectID": "index.html#in-the-field",
-    "href": "index.html#in-the-field",
+    "objectID": "index.html#and-in-the-field",
+    "href": "index.html#and-in-the-field",
     "title": "natural philosophy on a laptop",
-    "section": "…in the field",
-    "text": "…in the field\nI am not just bound to my computer. Here are some of my biological adventures.\nAlgal sample collection in St. Abbs, Scotland."
+    "section": "… and in the field",
+    "text": "… and in the field\nI am not just bound to my computer. Here are some of my biological adventures.\nAlgal sample collection in St. Abbs, Scotland."
   },
   {
     "objectID": "index.html#publications",
