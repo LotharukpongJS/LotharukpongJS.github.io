@@ -5,11 +5,11 @@ editor: visual
 lang: en-GB
 ---
 
-From the diverse life forms we observe on Earth, a question often arises: what generates this biodiversity?
+Ever since ancient times, the incredible diversity of life forms on our planet has inspired us to ask: what creates this biodiversity?
 
-My curiosity lies on the other side of the coin: what **limits** biodiversity?
+My curiosity lies on the other side of the coin --- what sets the **limits** to this biodiversity?
 
-One factor is the process of development that creates these organisms in the first place. But exactly how - and are findings in model systems generally shared across Earth's diverse life forms?
+One clue is in the developmental processes that create each organism in the first place. Yet how exactly does development shape evolution, and to what extent can findings from established model systems be generalised across the tree of life?
 
 As a doctoral researcher at the [Max Planck Institute for Biology](https://www.bio.mpg.de/) (Tübingen, Germany), I seek answers to these biological questions through bioinformatics research using [brown algae](brown_algae.html) as a model system.
 
@@ -17,7 +17,7 @@ As a doctoral researcher at the [Max Planck Institute for Biology](https://www.b
 
 Contributions to open-source bioinformatic software applications.
 
-[<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/orthologr_logo.png?raw=true" width="150"/>](https://drostlab.github.io/orthologr) [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/myTAI_logo.png?raw=true" width="150"/>](https://drostlab.github.io/myTAI) [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/phylomapr_logo.png?raw=true" width="150"/>](https://lotharukpongjs.github.io/phylomapr) [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/GenEra_logo_dark.png?raw=true" width="150"/>](https://github.com/josuebarrera/GenEra)
+[<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/orthologr_logo.png?raw=true" width="100"/>](https://drostlab.github.io/orthologr) [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/myTAI_logo.png?raw=true" width="100"/>](https://drostlab.github.io/myTAI) [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/phylomapr_logo.png?raw=true" width="100"/>](https://lotharukpongjs.github.io/phylomapr) [<img src="https://github.com/LotharukpongJS/LotharukpongJS.github.io/blob/main/images/GenEra_logo_dark.png?raw=true" width="100"/>](https://github.com/josuebarrera/GenEra)
 
 [`orthologr`](https://drostlab.github.io/orthologr) provides a framework to perform large scale **comparative genomics** studies with R.
 
@@ -27,7 +27,7 @@ Contributions to open-source bioinformatic software applications.
 
 [`GenEra`](https://github.com/josuebarrera/GenEra) estimates **gene-family founder events** (i.e., the age of the last common ancestor of protein-coding gene families) through the reimplementation of genomic phylostratigraphy at the tree of life scale.
 
-## ...in the field
+## ... and in the field
 
 I am not just bound to my computer. Here are some of my biological adventures.
 
@@ -53,8 +53,7 @@ The Node (https://thenode.biologists.com/):
 
 European Reference Genome Atlas (ERGA) (https://www.erga-biodiversity.eu/):
 
-> [Evolutionary transcriptomics in brown algae](https://www.erga-biodiversity.eu/post/a-transcriptomic-hourglass-in-brown-algae)
-> {{< video https://www.youtube.com/watch?v=bobCLEJlL1w >}}
+> [Evolutionary transcriptomics in brown algae](https://www.erga-biodiversity.eu/post/a-transcriptomic-hourglass-in-brown-algae) {{< video https://www.youtube.com/watch?v=bobCLEJlL1w >}}
 
 Max Planck Press Office:
 
