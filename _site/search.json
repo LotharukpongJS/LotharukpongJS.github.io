@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "natural philosophy on a laptop",
     "section": "",
-    "text": "From the diverse life forms we observe on Earth, a question often arises: what generates this biodiversity?\nMy curiosity lies on the other side of the coin: what limits biodiversity?\nOne factor is the process of development that creates these organisms in the first place. But exactly how - and are findings in model systems generally shared across Earth’s diverse life forms?\nAs a doctoral researcher at the Max Planck Institute for Biology (Tübingen, Germany), I seek answers to these biological questions through bioinformatics research using brown algae as a model system."
+    "text": "Ever since ancient times, the incredible diversity of life forms on our planet has inspired us to ask: what creates this biodiversity?\nMy curiosity lies on the other side of the coin — what sets the limits to this biodiversity?\nOne clue is in the developmental processes that create each organism in the first place. Yet how exactly does development shape evolution, and to what extent can findings from established model systems be generalised across the tree of life?\nAs a doctoral researcher at the Max Planck Institute for Biology (Tübingen, Germany), I seek answers to these biological questions through bioinformatics research using brown algae as a model system."
   },
   {
     "objectID": "index.html#bioinformatics",
@@ -28,25 +28,25 @@
     "text": "bioinformatics\nContributions to open-source bioinformatic software applications.\n   \northologr provides a framework to perform large scale comparative genomics studies with R.\nmyTAI introduces procedures summarised under the term evolutionary transcriptomics to integrate gene age information into classical gene expression analysis in R.\nphylomapr enables quick retrieval of precomputed gene age maps (phylomaps) in R.\nGenEra estimates gene-family founder events (i.e., the age of the last common ancestor of protein-coding gene families) through the reimplementation of genomic phylostratigraphy at the tree of life scale."
   },
   {
-    "objectID": "index.html#in-the-field",
-    "href": "index.html#in-the-field",
+    "objectID": "index.html#and-in-the-field",
+    "href": "index.html#and-in-the-field",
     "title": "natural philosophy on a laptop",
-    "section": "…in the field",
-    "text": "…in the field\nI am not just bound to my computer. Here are some of my biological adventures.\nAlgal sample collection in St. Abbs, Scotland."
+    "section": "… and in the field",
+    "text": "… and in the field\nI am not just bound to my computer. Here are some of my biological adventures.\nAlgal sample collection in St. Abbs, Scotland."
   },
   {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
+    "objectID": "index.html#publications-and-preprints",
+    "href": "index.html#publications-and-preprints",
     "title": "natural philosophy on a laptop",
-    "section": "publications",
-    "text": "publications\n\nBarrera-Redondo, J., Lotharukpong, J. S., Drost, H-G., & Coelho, S. M. (2023). Uncovering gene-family founder events during major evolutionary transitions in animals, plants and fungi using GenEra. Genome Biology, 24(1), 54.\nManley, B. F., Lotharukpong, J. S., Barrera-Redondo, J., Llewellyn, T., Yildirir, G., Sperschneider, J., … & Dallaire, A. (2023). A highly contiguous genome assembly reveals sources of genomic novelty in the symbiotic fungus Rhizophagus irregularis. G3: Genes, Genomes, Genetics, 13(6), jkad077.\nLotharukpong, J. S., Zheng, M., Luthringer, R., Liesner, D., Drost, H-G., & Coelho, S. M. (2024). A transcriptomic hourglass in brown algae. Nature 635, 129–135\n\nSee also on google scholar"
+    "section": "publications and preprints",
+    "text": "publications and preprints\n\nLotharukpong, J. S., Zheng, M., Luthringer, R., Liesner, D., Drost, H-G., & Coelho, S. M. (2024). A transcriptomic hourglass in brown algae. Nature 635, 129–135\nBarrera-Redondo, J., Lotharukpong, J. S., Drost, H-G., & Coelho, S. M. (2023). Uncovering gene-family founder events during major evolutionary transitions in animals, plants and fungi using GenEra. Genome Biology, 24(1), 54.\nManley, B. F., Lotharukpong, J. S., Barrera-Redondo, J., Llewellyn, T., Yildirir, G., Sperschneider, J., … & Dallaire, A. (2023). A highly contiguous genome assembly reveals sources of genomic novelty in the symbiotic fungus Rhizophagus irregularis. G3: Genes, Genomes, Genetics, 13(6), jkad077."
   },
   {
     "objectID": "index.html#media",
     "href": "index.html#media",
     "title": "natural philosophy on a laptop",
     "section": "media",
-    "text": "media\nThe Node (https://thenode.biologists.com/)\n\nBehind the paper: A transcriptomic hourglass in brown algae\n\nEuropean Reference Genome Atlas (ERGA) (https://www.erga-biodiversity.eu/)\n\nEvolutionary transcriptomics in brown algae"
+    "text": "media\nThe Node (https://thenode.biologists.com/):\n\nBehind the paper: A transcriptomic hourglass in brown algae\n\nEuropean Reference Genome Atlas (ERGA) (https://www.erga-biodiversity.eu/):\n\nEvolutionary transcriptomics in brown algae \n\nMax Planck Press Office:\n\nBraunalgen entwickeln sich nach Sanduhr-Modell (see also in English)"
   },
   {
     "objectID": "about.html",
@@ -54,5 +54,61 @@
     "title": "about me",
     "section": "",
     "text": "I was born in Kagoshima (Japan), grew up in Bangkok (Thailand) and studied in London (BSc. in Biological Sciences from Imperial College London) and Cambridge (MPhil in Zoology from University of Cambridge). I am now based in southern Germany at the Max Planck Institute for Biology in Tübingen, working towards a PhD in Bioinformatics.\n\n\n\n\n\n\n\n\n\nPhD supervisors: Susana Coelho (director::Department for Algal Development and Evolution) and Hajk-Georg Drost (group leader::Computational Biology Group, now associate professor in Dundee).\nAside from my direct research projects, I am generally interested in bioinformatics, developmental biology and informations-thinking in biology.\nSee more: ORCID :: google scholar :: Bluesky :: X/twitter"
+  },
+  {
+    "objectID": "cv/cv.html",
+    "href": "cv/cv.html",
+    "title": "curriculum vitae",
+    "section": "",
+    "text": "{{&lt; yaml assets/yml/education.yml &gt;}}"
+  },
+  {
+    "objectID": "cv/cv.html#education",
+    "href": "cv/cv.html#education",
+    "title": "curriculum vitae",
+    "section": "",
+    "text": "{{&lt; yaml assets/yml/education.yml &gt;}}"
+  },
+  {
+    "objectID": "cv/cv.html#publications",
+    "href": "cv/cv.html#publications",
+    "title": "curriculum vitae",
+    "section": "Publications",
+    "text": "Publications\n{{&lt; yaml assets/yml/publication.yml &gt;}}\ntext: “* denotes equal contribution”\n\nAdditional Articles\n{{&lt; yaml assets/yml/additional_articles.yml &gt;}}"
+  },
+  {
+    "objectID": "cv/cv.html#research-experience",
+    "href": "cv/cv.html#research-experience",
+    "title": "curriculum vitae",
+    "section": "Research Experience",
+    "text": "Research Experience\n{{&lt; yaml assets/yml/work.yml &gt;}}"
+  },
+  {
+    "objectID": "cv/cv.html#skills",
+    "href": "cv/cv.html#skills",
+    "title": "curriculum vitae",
+    "section": "Skills",
+    "text": "Skills\n{{&lt; yaml assets/yml/skill.yml &gt;}}"
+  },
+  {
+    "objectID": "cv/cv.html#awards",
+    "href": "cv/cv.html#awards",
+    "title": "curriculum vitae",
+    "section": "Awards",
+    "text": "Awards\n{{&lt; yaml assets/yml/award.yml &gt;}}"
+  },
+  {
+    "objectID": "index.html#preprints-and-other-articles",
+    "href": "index.html#preprints-and-other-articles",
+    "title": "natural philosophy on a laptop",
+    "section": "preprints and other articles",
+    "text": "preprints and other articles\n\nLotharukpong, J. S. & Coelho, S. (2026). Flexible paths to multicellularity Nature\nLotharukpong, J. S., Laumer, C. E., & Gutierrez, E. B. (2025). Phylogenetic discordance and genic innovation at the emergence of modern cephalochordates. preprint at bioRxiv\nVigneau, J.*, Lotharukpong, J. S.*, Pengfei, L., Luthringer, R., Lombard, B., Loew, D., Haas, F. B., Borg, M., & Coelho, S. M. (2025). Rewiring of chromatin regulation underlies the evolution of brown algal multicellularity. preprint at bioRxiv (*equal contribution)\n\nSee also on google scholar"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "natural philosophy on a laptop",
+    "section": "publications",
+    "text": "publications\n\nLotharukpong, J. S., Zheng, M., Luthringer, R., Liesner, D., Drost, H-G., & Coelho, S. M. (2024). A transcriptomic hourglass in brown algae. Nature 635, 129–135\nBarrera-Redondo, J., Lotharukpong, J. S., Drost, H-G., & Coelho, S. M. (2023). Uncovering gene-family founder events during major evolutionary transitions in animals, plants and fungi using GenEra. Genome Biology, 24(1), 54.\nManley, B. F., Lotharukpong, J. S., Barrera-Redondo, J., Llewellyn, T., Yildirir, G., Sperschneider, J., … & Dallaire, A. (2023). A highly contiguous genome assembly reveals sources of genomic novelty in the symbiotic fungus Rhizophagus irregularis. G3: Genes, Genomes, Genetics, 13(6), jkad077.\n\n\npreprints and other articles\n\nLotharukpong, J. S. & Coelho, S. (2026). Flexible paths to multicellularity Nature\nLotharukpong, J. S., Laumer, C. E., & Gutierrez, E. B. (2025). Phylogenetic discordance and genic innovation at the emergence of modern cephalochordates. preprint at bioRxiv\nVigneau, J.*, Lotharukpong, J. S.*, Pengfei, L., Luthringer, R., Lombard, B., Loew, D., Haas, F. B., Borg, M., & Coelho, S. M. (2025). Rewiring of chromatin regulation underlies the evolution of brown algal multicellularity. preprint at bioRxiv (*equal contribution)\n\nSee also on google scholar"
   }
 ]

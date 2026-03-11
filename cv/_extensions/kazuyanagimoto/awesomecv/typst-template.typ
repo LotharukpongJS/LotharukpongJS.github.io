@@ -169,7 +169,7 @@ $endif$
   pad(bottom: 5pt)[
     #block[
       #set text(
-        size: 32pt,
+        size: 28pt,
         style: "normal",
         font: (font-header),
       )
@@ -380,7 +380,7 @@ $endif$
   
   set text(
     font: (font-text),
-    size: 11pt,
+    size: 10pt,
     fill: color-darkgray,
     fallback: true,
   )
@@ -426,7 +426,7 @@ $endif$
     )
     
     #align(left)[
-      #text[#strong[#text(color-accent)[#it.body.text.slice(0, 3)]#text(color-darkgray)[#it.body.text.slice(3)]]]
+      #text[#strong[#text(color-accent)[#it.body.text.slice(0, 1)]#text(color-darkgray)[#it.body.text.slice(1)]]] // this used to be 3
       #box(width: 1fr, line(length: 100%))
     ]
   ]

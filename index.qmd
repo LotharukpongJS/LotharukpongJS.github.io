@@ -35,17 +35,21 @@ Algal sample collection in St. Abbs, Scotland.
 
 <img src="images/PXL_20230821_151113739.jpg" alt="The sea over St. Abbs." width="200"/> <img src="images/PXL_20230822_120843250.jpg" alt="Tide pool" width="200"/> <img src="images/PXL_20230823_163653386.MP.jpg" alt="Ectocarpus." width="200"/>
 
-## publications and preprints
+## publications
 
-> **Lotharukpong, J. S.**, Laumer, C. E., & Gutierrez, E. B. (2025). Phylogenetic discordance and genic innovation at the emergence of modern cephalochordates. [preprint at bioRxiv](https://doi.org/10.1101/2025.10.14.682400)
->
-> Vigneau, J.\*, **Lotharukpong, J. S.**\*, Pengfei, L., Luthringer, R., Lombard, B., Loew, D., Haas, F. B., Borg, M., & Coelho, S. M. (2025). Rewiring of chromatin regulation underlies the evolution of brown algal multicellularity. [preprint at bioRxiv](https://doi.org/10.1101/2025.09.16.676480) (\*equal contribution)
->
 > **Lotharukpong, J. S.**, Zheng, M., Luthringer, R., Liesner, D., Drost, H-G., & Coelho, S. M. (2024). A transcriptomic hourglass in brown algae. [Nature 635, 129--135](https://doi.org/10.1038/s41586-024-08059-8)
 >
 > Barrera-Redondo, J., **Lotharukpong, J. S.**, Drost, H-G., & Coelho, S. M. (2023). Uncovering gene-family founder events during major evolutionary transitions in animals, plants and fungi using GenEra. [Genome Biology, 24(1), 54.](https://doi.org/10.1186/s13059-023-02895-z)
 >
 > Manley, B. F., **Lotharukpong, J. S.**, Barrera-Redondo, J., Llewellyn, T., Yildirir, G., Sperschneider, J., ... & Dallaire, A. (2023). A highly contiguous genome assembly reveals sources of genomic novelty in the symbiotic fungus Rhizophagus irregularis. [G3: Genes, Genomes, Genetics, 13(6), jkad077.](https://doi.org/10.1093/g3journal/jkad077)
+
+### preprints and other articles
+
+> **Lotharukpong, J. S.** & Coelho, S. (2026). Flexible paths to multicellularity [Nature](https://doi.org/10.1038/d41586-026-00292-7)
+>
+> **Lotharukpong, J. S.**, Laumer, C. E., & Gutierrez, E. B. (2025). Phylogenetic discordance and genic innovation at the emergence of modern cephalochordates. [preprint at bioRxiv](https://doi.org/10.1101/2025.10.14.682400)
+>
+> Vigneau, J.\*, **Lotharukpong, J. S.**\*, Pengfei, L., Luthringer, R., Lombard, B., Loew, D., Haas, F. B., Borg, M., & Coelho, S. M. (2025). Rewiring of chromatin regulation underlies the evolution of brown algal multicellularity. [preprint at bioRxiv](https://doi.org/10.1101/2025.09.16.676480) (\*equal contribution)
 
 See also on [google scholar](https://scholar.google.com/citations?user=2HiLuNEAAAAJ&hl)
 
