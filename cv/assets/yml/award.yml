@@ -2,6 +2,7 @@ phdpresentation-prize:
   title: PhD symposium best short talk
   location: Tübingen, Germany
   date: 2022
+  description: Issued by Max Planck Institute for Biology Tübingen
 howarth-prize:
   title: Howarth Prize
   location: London, UK
@@ -11,7 +12,9 @@ biology2018-prize:
   title: 2018 Biological Sciences 1st Year Prize
   location: London, UK
   date: 2018
+  description: Issued by Department of Life Sciences, Imperial College London
 dean-list:  
   title: Dean's List (Year 1)
   location: London, UK
   date: 2018
+  description: Issued by Department of Life Sciences, Imperial College London

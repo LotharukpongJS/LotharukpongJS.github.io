@@ -110,5 +110,110 @@
     "title": "natural philosophy on a laptop",
     "section": "publications",
     "text": "publications\n\nLotharukpong, J. S., Zheng, M., Luthringer, R., Liesner, D., Drost, H-G., & Coelho, S. M. (2024). A transcriptomic hourglass in brown algae. Nature 635, 129–135\nBarrera-Redondo, J., Lotharukpong, J. S., Drost, H-G., & Coelho, S. M. (2023). Uncovering gene-family founder events during major evolutionary transitions in animals, plants and fungi using GenEra. Genome Biology, 24(1), 54.\nManley, B. F., Lotharukpong, J. S., Barrera-Redondo, J., Llewellyn, T., Yildirir, G., Sperschneider, J., … & Dallaire, A. (2023). A highly contiguous genome assembly reveals sources of genomic novelty in the symbiotic fungus Rhizophagus irregularis. G3: Genes, Genomes, Genetics, 13(6), jkad077.\n\n\npreprints and other articles\n\nLotharukpong, J. S. & Coelho, S. (2026). Flexible paths to multicellularity Nature\nLotharukpong, J. S., Laumer, C. E., & Gutierrez, E. B. (2025). Phylogenetic discordance and genic innovation at the emergence of modern cephalochordates. preprint at bioRxiv\nVigneau, J.*, Lotharukpong, J. S.*, Pengfei, L., Luthringer, R., Lombard, B., Loew, D., Haas, F. B., Borg, M., & Coelho, S. M. (2025). Rewiring of chromatin regulation underlies the evolution of brown algal multicellularity. preprint at bioRxiv (*equal contribution)\n\nSee also on google scholar"
+  },
+  {
+    "objectID": "cv/template-typstcv.html#publications",
+    "href": "cv/template-typstcv.html#publications",
+    "title": "Albert Einstein’s CV",
+    "section": "Publications",
+    "text": "Publications"
+  },
+  {
+    "objectID": "cv/template-typstcv.html#work-experience",
+    "href": "cv/template-typstcv.html#work-experience",
+    "title": "Albert Einstein’s CV",
+    "section": "Work Experience",
+    "text": "Work Experience"
+  },
+  {
+    "objectID": "cv/template-typstcv.html#awards",
+    "href": "cv/template-typstcv.html#awards",
+    "title": "Albert Einstein’s CV",
+    "section": "Awards",
+    "text": "Awards"
+  },
+  {
+    "objectID": "cv/template-typstcv.html#skills",
+    "href": "cv/template-typstcv.html#skills",
+    "title": "Albert Einstein’s CV",
+    "section": "Skills",
+    "text": "Skills"
+  },
+  {
+    "objectID": "cv_old/cv.html",
+    "href": "cv_old/cv.html",
+    "title": "curriculum vitae",
+    "section": "",
+    "text": "{{&lt; yaml assets/yml/education.yml &gt;}}"
+  },
+  {
+    "objectID": "cv_old/cv.html#education",
+    "href": "cv_old/cv.html#education",
+    "title": "curriculum vitae",
+    "section": "",
+    "text": "{{&lt; yaml assets/yml/education.yml &gt;}}"
+  },
+  {
+    "objectID": "cv_old/cv.html#publications",
+    "href": "cv_old/cv.html#publications",
+    "title": "curriculum vitae",
+    "section": "Publications",
+    "text": "Publications\n{{&lt; yaml assets/yml/publication.yml &gt;}}"
+  },
+  {
+    "objectID": "cv_old/cv.html#additional-articles",
+    "href": "cv_old/cv.html#additional-articles",
+    "title": "curriculum vitae",
+    "section": "Additional Articles",
+    "text": "Additional Articles\n{{&lt; yaml assets/yml/additional_articles.yml &gt;}}"
+  },
+  {
+    "objectID": "cv_old/cv.html#research-experience",
+    "href": "cv_old/cv.html#research-experience",
+    "title": "curriculum vitae",
+    "section": "Research Experience",
+    "text": "Research Experience\n{{&lt; yaml assets/yml/work.yml &gt;}}"
+  },
+  {
+    "objectID": "cv_old/cv.html#skills",
+    "href": "cv_old/cv.html#skills",
+    "title": "curriculum vitae",
+    "section": "Skills",
+    "text": "Skills\n{{&lt; yaml assets/yml/skill.yml &gt;}}"
+  },
+  {
+    "objectID": "cv_old/cv.html#awards",
+    "href": "cv_old/cv.html#awards",
+    "title": "curriculum vitae",
+    "section": "Awards",
+    "text": "Awards\n{{&lt; yaml assets/yml/award.yml &gt;}}"
+  },
+  {
+    "objectID": "cv_old/template-typstcv.html#publications",
+    "href": "cv_old/template-typstcv.html#publications",
+    "title": "Albert Einstein’s CV",
+    "section": "Publications",
+    "text": "Publications"
+  },
+  {
+    "objectID": "cv_old/template-typstcv.html#work-experience",
+    "href": "cv_old/template-typstcv.html#work-experience",
+    "title": "Albert Einstein’s CV",
+    "section": "Work Experience",
+    "text": "Work Experience"
+  },
+  {
+    "objectID": "cv_old/template-typstcv.html#awards",
+    "href": "cv_old/template-typstcv.html#awards",
+    "title": "Albert Einstein’s CV",
+    "section": "Awards",
+    "text": "Awards"
+  },
+  {
+    "objectID": "cv_old/template-typstcv.html#skills",
+    "href": "cv_old/template-typstcv.html#skills",
+    "title": "Albert Einstein’s CV",
+    "section": "Skills",
+    "text": "Skills"
   }
 ]

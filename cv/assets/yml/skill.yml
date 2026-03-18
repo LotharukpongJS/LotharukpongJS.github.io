@@ -1,9 +1,12 @@
 lang:
   title: Languages
-  description: English, German (working), Japanese (working), Thai (working), Russian (basic)
+  description: English, German (working), Japanese (working), Thai (working), Russian (basic), Mandarin (basic)
 programming:
   title: Programming Languages
-  description: R, bash
+  description: R, Bash
+markup:
+  title: Markup Languages
+  description: Quarto, LaTeX
 wet-lab:
   title: Biology
-  description: Molecular cloning, transgenics (C. elegans), microinjection (C. elegans), embryology (chicken)
+  description: Molecular cloning, transgenics (_C. elegans_), microinjection (_C. elegans_)
