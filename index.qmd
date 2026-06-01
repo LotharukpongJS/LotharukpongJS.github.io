@@ -29,7 +29,7 @@ Contributions to open-source bioinformatic software applications.
 
 ## ... and in the field
 
-I am not just bound to my computer. Here are some of my biological adventures.
+I am not just bound to my computer. Here are some of my field adventures.
 
 Algal sample collection in St. Abbs, Scotland.
 
@@ -37,19 +37,21 @@ Algal sample collection in St. Abbs, Scotland.
 
 ## publications
 
-> **Lotharukpong, J. S.**, Zheng, M., Luthringer, R., Liesner, D., Drost, H-G., & Coelho, S. M. (2024). A transcriptomic hourglass in brown algae. [Nature 635, 129--135](https://doi.org/10.1038/s41586-024-08059-8)
+> Vigneau, J.\*, **Lotharukpong, J.S.**\*, Pengfei, L., Luthringer, R., Lombard, B., Loew, D., Haas, F.B., Borg, M., & Coelho, S.M. (2026). _Evolution of a distinct chromatin regulatory landscape in brown algae_. [Nature Ecology & Evolution 10, 779–793.](https://doi.org/10.1038/s41559-026-03031-3) (\*equal contribution)
 >
-> Barrera-Redondo, J., **Lotharukpong, J. S.**, Drost, H-G., & Coelho, S. M. (2023). Uncovering gene-family founder events during major evolutionary transitions in animals, plants and fungi using GenEra. [Genome Biology, 24(1), 54.](https://doi.org/10.1186/s13059-023-02895-z)
+> **Lotharukpong, J.S.**, Zheng, M., Luthringer, R., Liesner, D., Drost, H-G., & Coelho, S.M. (2024). _A transcriptomic hourglass in brown algae_. [Nature 635, 129--135.](https://doi.org/10.1038/s41586-024-08059-8)
 >
-> Manley, B. F., **Lotharukpong, J. S.**, Barrera-Redondo, J., Llewellyn, T., Yildirir, G., Sperschneider, J., ... & Dallaire, A. (2023). A highly contiguous genome assembly reveals sources of genomic novelty in the symbiotic fungus Rhizophagus irregularis. [G3: Genes, Genomes, Genetics, 13(6), jkad077.](https://doi.org/10.1093/g3journal/jkad077)
+> Barrera-Redondo, J., **Lotharukpong, J.S.**, Drost, H-G., & Coelho, S.M. (2023). _Uncovering gene-family founder events during major evolutionary transitions in animals, plants and fungi using GenEra_. [Genome Biology, 24(1), 54.](https://doi.org/10.1186/s13059-023-02895-z)
+>
+> Manley, B.F., **Lotharukpong, J.S.**, Barrera-Redondo, J., Llewellyn, T., Yildirir, G., Sperschneider, J., ... & Dallaire, A. (2023). _A highly contiguous genome assembly reveals sources of genomic novelty in the symbiotic fungus Rhizophagus irregularis_. [G3: Genes, Genomes, Genetics, 13(6), jkad077.](https://doi.org/10.1093/g3journal/jkad077)
 
 ### preprints and other articles
 
-> **Lotharukpong, J. S.** & Coelho, S. (2026). Flexible paths to multicellularity [Nature](https://doi.org/10.1038/d41586-026-00292-7)
+> **Lotharukpong, J.S.** Zheng, M., Luthringer, R., Liesner, D., Bogaert, K.A., Hoshino, M., López-Gómez, E., Fernández-Pozo, N., Haas, F.B. & Coelho, S.M. (2026). _Regulatory innovation and transcriptome turnover drive the evolution of multicellularity in brown algae_. [preprint at bioRxiv](https://doi.org/10.64898/2026.04.27.720984)
 >
-> **Lotharukpong, J. S.**, Laumer, C. E., & Gutierrez, E. B. (2025). Phylogenetic discordance and genic innovation at the emergence of modern cephalochordates. [preprint at bioRxiv](https://doi.org/10.1101/2025.10.14.682400)
+> **Lotharukpong, J.S.** & Coelho, S.M. (2026). _Flexible paths to multicellularity_. [Nature](https://doi.org/10.1038/d41586-026-00292-7)
 >
-> Vigneau, J.\*, **Lotharukpong, J. S.**\*, Pengfei, L., Luthringer, R., Lombard, B., Loew, D., Haas, F. B., Borg, M., & Coelho, S. M. (2025). Rewiring of chromatin regulation underlies the evolution of brown algal multicellularity. [preprint at bioRxiv](https://doi.org/10.1101/2025.09.16.676480) (\*equal contribution)
+> **Lotharukpong, J.S.**, Laumer, C.E., & Gutierrez, E.B. (2025). _Phylogenetic discordance and genic innovation at the emergence of modern cephalochordates_. [preprint at bioRxiv](https://doi.org/10.1101/2025.10.14.682400)
 
 See also on [google scholar](https://scholar.google.com/citations?user=2HiLuNEAAAAJ&hl)
 
