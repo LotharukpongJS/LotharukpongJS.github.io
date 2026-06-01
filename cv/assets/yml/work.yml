@@ -1,15 +1,20 @@
+coelho_phd:
+  title: Ph.D. Thesis
+  location: Tübingen, Germany
+  date: 2021 - current
+  description: *Evolutionary transcriptomics in brown algae* #linebreak() Prof. Susana Coehlo\* & Dr. Hajk-Georg Drost (Max Planck Institute for Biology Tübingen)
 benito_intern:
   title: Master's Thesis
   location: Cambridge, UK
   date: 2020 - 2021
-  description: Genome assembly, phylogenetics and comparative genomics in Cephalochordates (Dr. Christopher Laumer & Dr. Elia Benito-Gutiérrez - University of Cambridge)
+  description: *Genome assembly, phylogenetics and comparative genomics in cephalochordates* #linebreak() Dr. Elia Benito-Gutiérrez\* & Dr. Christopher Laumer (University of Cambridge)
 endres_intern:
   title: Bachelor's Thesis
   location: London, UK
   date: 2020
-  description: Biophysical model for spore germination (Prof. Robert Endres & Harry Cavanagh - Imperial College London)
+  description: *Minimal biophysical model for spore germination* #linebreak() Prof. Robert Endres\* & Harry Cavanagh (Imperial College London)
 barkoulas_intern:
   title: Intern Student
   location: London, UK
   date: 2019
-  description: In vivo transdifferentiation in _C. elegans_ (Dr. Mark Hintze & Dr. Michalis Barkoulas - Imperial College London)
+  description: *_In vivo_ transdifferentiation in _C. elegans_* #linebreak() Dr. Michalis Barkoulas\* & Dr. Mark Hintze (Imperial College London)

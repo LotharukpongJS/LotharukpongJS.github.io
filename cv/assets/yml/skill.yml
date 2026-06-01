@@ -1,6 +1,6 @@
 lang:
   title: Languages
-  description: English, German (working), Japanese (working), Thai (working), Russian (basic), Mandarin (basic)
+  description: English, Japanese (working), Thai (working), German (working), Russian (basic)
 programming:
   title: Programming Languages
   description: R, Bash

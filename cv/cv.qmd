@@ -7,7 +7,7 @@ author:
   position: "Doctoral Researcher・Evolutionary Genomics・Bioinformatics・Developmental Biology"
   contacts:
     - icon: fa brands envelope
-      text: jlotharukpong[at]tuebingen[dot]mpg[dot]de
+      text: jlotharukpong@tuebingen.mpg.de
       url: "jlotharukpong@tuebingen.mpg.de"
     - icon: fa brands orcid
       text: 0000-0002-3475-0980
@@ -47,6 +47,10 @@ brand:
 ## Additional Articles
 
 {{< yaml assets/yml/additional_articles.yml >}}
+
+<!-- ## Papers in Preparation -->
+
+<!-- {{< yaml assets/yml/pre_publication.yml >}} -->
 
 ## Research Experience
 

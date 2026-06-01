@@ -352,7 +352,7 @@
 
   set text(
     font: (font-text),
-    size: 11pt, // used to be 11
+    size: 10pt, // used to be 11
     fill: color-darkgray,
     fallback: true,
   )

@@ -47,7 +47,7 @@ Algal sample collection in St. Abbs, Scotland.
 
 ### preprints and other articles
 
-> **Lotharukpong, J.S.** Zheng, M., Luthringer, R., Liesner, D., Bogaert, K.A., Hoshino, M., López-Gómez, E., Fernández-Pozo, N., Haas, F.B. & Coelho, S.M. (2026). _Regulatory innovation and transcriptome turnover drive the evolution of multicellularity in brown algae_. [preprint at bioRxiv](https://doi.org/10.64898/2026.04.27.720984)
+> **Lotharukpong, J.S.**, Zheng, M., Luthringer, R., Liesner, D., Bogaert, K.A., Hoshino, M., López-Gómez, E., Fernández-Pozo, N., Haas, F.B. & Coelho, S.M. (2026). _Regulatory innovation and transcriptome turnover drive the evolution of multicellularity in brown algae_. [preprint at bioRxiv](https://doi.org/10.64898/2026.04.27.720984)
 >
 > **Lotharukpong, J.S.** & Coelho, S.M. (2026). _Flexible paths to multicellularity_. [Nature](https://doi.org/10.1038/d41586-026-00292-7)
 >
